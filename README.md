@@ -1,13 +1,7 @@
 ### I'm MANSTER! 👋
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='300"'>
 
-### First Things First:
-<a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
-  <img src="https://pronouns.vercel.app/He/Him?gradient=stellar" width="255" height="63" alt="My pronouns are He/Him">
-</a>
-
 Passionate about _A LOT OF THING_.
-
 
 ## ⚡ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
