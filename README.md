@@ -3,10 +3,10 @@
 
 ### First Things First:
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
-  <img src="https://pronouns.vercel.app/He/Him?gradient=stellar" width="255" height="65" alt="My pronouns are He/Him">
+  <img src="https://pronouns.vercel.app/He/Him?gradient=stellar" width="255" height="63" alt="My pronouns are He/Him">
 </a>
 
-HI, Please call me MANSTER (It's not ~~MONSTER~~ it's __MANSTER__ pronounce it like the french do, or M for short, i love to writing codes. I like bot developing (Discord/Telegram etc ...).
+Hi, Please call me MANSTER (It's not ~~MONSTER~~ it's __MANSTER__ pronounce it like the french do, or M for short, i love to writing codes. I like bot developing (Discord/Telegram etc ...).
 
 ## ⚡ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
