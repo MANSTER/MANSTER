@@ -1,4 +1,4 @@
-### Hi There👋.
+### I'm MANSTER! 👋
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='300"'>
 
 ### First Things First:
@@ -6,7 +6,8 @@
   <img src="https://pronouns.vercel.app/He/Him?gradient=stellar" width="255" height="63" alt="My pronouns are He/Him">
 </a>
 
-Hi, Please call me MANSTER (It's not ~~MONSTER~~ it's __MANSTER__ pronounce it like the french do, or M for short, i love to writing codes. I like bot developing (Discord/Telegram etc ...).
+Passionate about A LOT OF THING.
+
 
 ## ⚡ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
