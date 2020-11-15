@@ -7,15 +7,7 @@
   <img src="https://pronouns.vercel.app/He/Him?gradient=stellar" width="256" height="64" alt="My pronouns are He/Him">
 </a>
 
-HI, Please call me MANSTER (It's not ~~MONSTER~~ it's __MANSTER__ pronounce it like the french do, or M for short, i love to writing codes. I like bot developing (Discord/Telegram etc ...). 
-
-<details><summary>CLICK ME</summary>
-<p>
-Discord/Telegram... Bot Development.
-Penetration Testing.
-Cracking.
-</p>
-</details>
+HI, Please call me MANSTER (It's not ~~MONSTER~~ it's __MANSTER__ pronounce it like the french do, or M for short, i love to writing codes. I like bot developing (Discord/Telegram etc ...).
 
 ## ⚡ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
