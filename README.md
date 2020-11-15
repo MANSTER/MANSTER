@@ -1,8 +1,10 @@
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='300"'>
+![](https://cdn.discordapp.com/attachments/737634728621899837/777571173646204948/header_.png)
+
 
 
 
 ### First Things First:
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='300"'>
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
   <img src="https://pronouns.vercel.app/He/Him?gradient=stellar" width="256" height="64" alt="My pronouns are He/Him">
 </a>
