@@ -2,7 +2,13 @@
 
 
 
-### Domains❤️
+### First Things First:
+<a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
+  <img src="https://pronouns.vercel.app/He/Him?gradient=stellar" width="256" height="64" alt="My pronouns are He/Him">
+</a>
+
+HI, Please call me MANSTER (It's not ~~MONSTER~~ it's __MANSTER__ pronounce it like the french do, or M for short, i love to writing codes. I like bot developing (Discord/Telegram etc ...). 
+
 <details><summary>CLICK ME</summary>
 <p>
 Discord/Telegram... Bot Development.
