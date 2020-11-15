@@ -1,5 +1,6 @@
-### Hi There👋 
+### Hi There👋.
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='300"'>
+
 ### First Things First:
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
   <img src="https://pronouns.vercel.app/He/Him?gradient=stellar" width="256" height="64" alt="My pronouns are He/Him">
