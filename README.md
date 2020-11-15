@@ -25,5 +25,5 @@ Hi, Please call me MANSTER (It's not ~~MONSTER~~ it's __MANSTER__ pronounce it l
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## I wish you i great day ❤️
+## I wish you a great day ❤️
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MANSTER.MANSTER)
