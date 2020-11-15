@@ -6,7 +6,7 @@
   <img src="https://pronouns.vercel.app/He/Him?gradient=stellar" width="255" height="63" alt="My pronouns are He/Him">
 </a>
 
-Passionate about *A LOT OF THING*.
+Passionate about _A LOT OF THING_.
 
 
 ## ⚡ Languages and Tools:
