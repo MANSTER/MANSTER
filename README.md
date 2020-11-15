@@ -1,7 +1,7 @@
 ### I'm MANSTER! 👋
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='300"'>
 
-Passionate about _A LOT OF THING_.
+Passionate about __A LOT OF THING__.
 
 ## ⚡ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
