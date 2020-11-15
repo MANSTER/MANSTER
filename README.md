@@ -20,6 +20,5 @@ Passionate about __A LOT OF THING__.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## I wish you a great day ❤️
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/MANSTER/MANSTER)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MANSTER.MANSTER)
+
+# ![visitors](https://visitor-badge.glitch.me/badge?page_id=MANSTER.MANSTER)
