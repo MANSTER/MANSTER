@@ -2,11 +2,12 @@
 
 
 
-### <details><summary>Domains❤️</summary>
+### Domains❤️
+<details><summary>CLICK ME</summary>
 <p>
-Discord/Telegram ... Bot Development
-Penetration Testing
-Cracking
+Discord/Telegram ... Bot Development.
+Penetration Testing.
+Cracking.
 
 </p>
 </details>
