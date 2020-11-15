@@ -1,10 +1,8 @@
-#<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='300"'>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='300"'>
 
 
 
-### Domains❤️
-
-<details><summary>CLICK ME</summary>
+### <details><summary>Domains❤️</summary>
 <p>
 Discord/Telegram ... Bot Development
 Penetration Testing
